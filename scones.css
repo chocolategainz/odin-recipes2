@@ -1,0 +1,17 @@
+body {
+background-color: rgb(255, 130, 224);
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(10, 31, 255);
+}
+
+p, ul, li {
+    font-family: sans-serif;
+}
+
+#recipe-tips {
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(83, 0, 143);
+}
